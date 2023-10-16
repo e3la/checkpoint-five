@@ -3,11 +3,11 @@ Final Project checkpoint-five Data Analysis:
 
 <a href="https://public.tableau.com/app/profile/helena.marvin/viz/UMSL-Article-Metadata/Story?publish=yes" TARGET = "_blank"><img alt='Story ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;UM&#47;UMSL-Article-Metadata&#47;Story&#47;1_rss.png' style='border: none' /></a>
 
-Check point five is at:
-
+Check point five is in this repo at:<a href="https://github.com/e3la/checkpoint-five/blob/main/api_permissions.ipynb" TARGET ="_blank">https://github.com/e3la/checkpoint-five/blob/main/api_permissions.ipynb</a>
+<p></p>
 Check point four is linked with the above iamge which is also the final project presentation: 
-<a href="https://public.tableau.com/app/profile/helena.marvin/viz/UMSL-Article-Metadata/Story?publish=yes" TARGET = "_blank">Articles Over The Pay Wall story in tableau.</a>
-Check point three is on github at <a href="https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb" TARGET = "_blank">https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb</a>
-Check point two is on github at <a href="https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb" TARGET = "_blank">https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb</a>
+<a href="https://public.tableau.com/app/profile/helena.marvin/viz/UMSL-Article-Metadata/Story?publish=yes" TARGET = "_blank">Articles Over The Pay Wall story in tableau.</a><br>
+Check point three is on github at <a href="https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb" TARGET = "_blank">https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb</a><br>
+Check point two is on github at <a href="https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb" TARGET = "_blank">https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb</a><br>
 Check point one is on github in this repo as a PDF at <a href="https://github.com/e3la/checkpoint-five/blob/main/Lena%20Marvin%20-%20DA%20Final%20Project%20Checkpoint%20One.pdf" TARGET="_blank">
 </a>
