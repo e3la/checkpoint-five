@@ -12,5 +12,4 @@ Check point three is on github at <a href="https://github.com/e3la/cleaning-data
 <p></p>
 Check point two is on github at <a href="https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb" TARGET = "_blank">https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb</a><br>
 <p></p>
-Check point one is on github in this repo as a PDF at <a href="https://github.com/e3la/checkpoint-five/blob/main/Lena%20Marvin%20-%20DA%20Final%20Project%20Checkpoint%20One.pdf" TARGET="_blank">Checkpoint 1 PDF
-</a>
+Check point one is in this repo as a PDF at <a href="https://github.com/e3la/checkpoint-five/blob/main/Lena%20Marvin%20-%20DA%20Final%20Project%20Checkpoint%20One.pdf" TARGET="_blank">Checkpoint 1 PDF </a>
