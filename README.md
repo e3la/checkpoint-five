@@ -5,7 +5,7 @@ Final Project: Over the Pay Wall - Data Analysis:
 
 Check point five is in this repo at: <a href="https://github.com/e3la/checkpoint-five/blob/main/api_permissions.ipynb" TARGET ="_blank">https://github.com/e3la/checkpoint-five/blob/main/api_permissions.ipynb</a>
 <p></p>
-Check point four is linked with the above iamge which is also the final project presentation: 
+Check point four is pictured and linked in the above image which is also the final project presentation: 
 <a href="https://public.tableau.com/app/profile/helena.marvin/viz/UMSL-Article-Metadata/Story?publish=yes" TARGET = "_blank">Articles Over The Pay Wall story in tableau.</a><br>
 <p></p>
 Check point three is on github at <a href="https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb" TARGET = "_blank">https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb</a><br>
