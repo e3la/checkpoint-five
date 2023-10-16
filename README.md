@@ -7,7 +7,10 @@ Check point five is in this repo at:<a href="https://github.com/e3la/checkpoint-
 <p></p>
 Check point four is linked with the above iamge which is also the final project presentation: 
 <a href="https://public.tableau.com/app/profile/helena.marvin/viz/UMSL-Article-Metadata/Story?publish=yes" TARGET = "_blank">Articles Over The Pay Wall story in tableau.</a><br>
+<p></p>
 Check point three is on github at <a href="https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb" TARGET = "_blank">https://github.com/e3la/cleaning-data-checkpoint/blob/main/checkpoint-three.ipynb</a><br>
+<p></p>
 Check point two is on github at <a href="https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb" TARGET = "_blank">https://github.com/e3la/eda-checkpoint/blob/starter-main/checkpoint-two.ipynb</a><br>
+<p></p>
 Check point one is on github in this repo as a PDF at <a href="https://github.com/e3la/checkpoint-five/blob/main/Lena%20Marvin%20-%20DA%20Final%20Project%20Checkpoint%20One.pdf" TARGET="_blank">
 </a>
